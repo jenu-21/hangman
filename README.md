@@ -5,6 +5,9 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ## Creating the variables for the game
 We have created a word_list variable conisisting of five fruit names. 
+
 Then we have imported a random choice module to pass the word_list variable into the choice method which later randomly generates a word from that list on to the word variable.
+
 User then gets to input a guess of a random letter with the input variable and this becomes the guess variable.
+
 Their guess is later verified to be a character with the if-else statement.
