@@ -24,3 +24,7 @@ Further editing the check_guess and ask_for_input functions with if, elif and el
 
 Using the for loop to define what happens to the game if the letter is/not in the word and then running the number of lives accordingly as a result for the guesses. 
 
+## Putting it all together
+Coding the logic of the game with the play_game function and further ellaborating the hangman game with the num_of_lives and num_of_letters under a while loop 
+
+This results in a fully completed hangman game that is playable by the user
