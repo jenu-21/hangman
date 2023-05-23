@@ -17,3 +17,10 @@ We have iteratively checked whether the guess by the user was valid with the whi
 
 Functions were later created to check the guessed letter and to then ask for the input from the user. 
 
+## Creating the game class
+Firstly we create the Hangman class that would consist of attributes for the game such as word, word_guessed, word_list, num_letters, num_lives and list_of_guesses. 
+
+Further editing the check_guess and ask_for_input functions with if, elif and else statements to run for checks in the game
+
+Using the for loop to define what happens to the game if the letter is/not in the word and then running the number of lives accordingly as a result for the guesses. 
+
